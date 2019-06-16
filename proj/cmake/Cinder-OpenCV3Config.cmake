@@ -24,7 +24,7 @@ if( NOT TARGET Cinder-OpenCV3 )
     
 	add_subdirectory(${Cinder-OpenCV3_SOURCE_PATH}/opencv)
 
-	SET(OPENCV_VCSVERSION 401)
+	SET(OPENCV_VCSVERSION 410)
 	
 
 	#message(OpenCV_LIBRARIESaaaaaaaaaaaaaaaaaa...........${OpenCV_LIBS})
